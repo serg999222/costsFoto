@@ -1,0 +1,68 @@
+body {
+  color: aliceblue;
+  background-color: #072222;
+}
+
+.calc__container {
+  display: block;
+  max-width: 800px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.calc__costs {
+  margin-bottom: 30px;
+  font-size: 35px;
+}
+
+.costt {
+  font-size: 35px;
+}
+
+.costt2 {
+  font-size: 35px;
+}
+
+.calc__format {
+  font-size: 35px;
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+.calc__buttoms {
+  text-align: left;
+}
+
+.calc__item {
+  margin-bottom: 20px;
+}
+
+.calc__result {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.result {
+  font-size: 35px;
+}
+
+.result__item2 {
+  text-decoration: underline;
+}
+
+#resultt {
+  margin: 40px 10px;
+}
+
+button {
+  border-radius: 30px;
+  font-size: 25px;
+  padding: 10px 20px;
+  background-color: aqua;
+  margin-top: 30px;
+}
